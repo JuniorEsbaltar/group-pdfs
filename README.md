@@ -1,10 +1,12 @@
 # group-pdfs
 
-- create a folder called pdfs and copy yours pdf into the folder.
+- Copy yours pdf into the pdfs folder.
 
 Run: 
 ```
-npm start
+npm install
+
+npm run start
 ```
 Done !!!
 
