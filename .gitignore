@@ -1,3 +1,4 @@
-pdfs
+pdfs/*
+!pdfs/.gitkeep
 node_modules
 merged.pdf
